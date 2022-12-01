@@ -5,10 +5,6 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# Custom
-alias chrome='chromium &'
-alias chromei='chromium --incognito &'
-
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
