@@ -1,1 +1,1 @@
-# Bluepaco's dotfiles
+# Tom's dotfiles
